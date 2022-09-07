@@ -1,0 +1,30 @@
+html {
+    background-color: aliceblue;
+    height: 100%;
+}
+
+body {
+    padding: 2em;
+    font-size: 1.25em;
+    height: 100%;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: space-between;
+    margin: 50px;
+}
+
+div {
+    background-color: lightcoral;
+    color: white;
+    width: 30%;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+
+h1 {
+    font-size: 36px;
+}
